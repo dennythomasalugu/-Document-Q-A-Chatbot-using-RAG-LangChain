@@ -39,7 +39,6 @@ while True:
     print(f"\nAnswer: {answer['result']}")
 ```
 
-Create a `knowledge.txt` with any content — e.g., a few paragraphs about yourself, your project, or any topic — and it will answer questions from it.
 
 ---
 
