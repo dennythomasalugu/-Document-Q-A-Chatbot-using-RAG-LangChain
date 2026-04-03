@@ -37,13 +37,7 @@ while True:
         break
     answer = rag_chain.invoke(query)
     print(f"\nAnswer: {answer['result']}")
-```
 
-
----
-
-## How to put it on GitHub — step by step
-```
 # In terminal:
 mkdir rag-qa-chatbot
 cd rag-qa-chatbot
@@ -53,10 +47,9 @@ git init
 # rag_chatbot.py  ← paste the code above
 # knowledge.txt   ← any text content you want to query
 # requirements.txt ← paste the 4 lines below
-```
 
 `requirements.txt`:
-```
+
 langchain
 langchain-community
 chromadb
