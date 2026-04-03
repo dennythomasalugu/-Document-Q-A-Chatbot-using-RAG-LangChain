@@ -1,0 +1,5 @@
+My name is Denny Thomas. I am pursuing M.Tech in Computer Science at NIT Delhi.
+I have published a research paper on stock price prediction using LSTM and Transformer models.
+The paper was published at Springer ICMEET-2024 in December 2024.
+I have built a RAG chatbot using LangChain and ChromaDB.
+I am applying for the Knowledge AI internship at Accenture.
